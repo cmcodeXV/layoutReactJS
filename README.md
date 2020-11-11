@@ -20,8 +20,8 @@ Run
 
 More info and Credits
 
-https://material-ui.com/
-https://ui-router.github.io/
-https://www.youtube.com/playlist?list=PLPl81lqbj-4Kn-PRUvHuzh_591Euc3688
-https://herelodin.com/como-configurar-ui-router-react/
+- https://material-ui.com/
+- https://ui-router.github.io/
+- https://www.youtube.com/playlist?list=PLPl81lqbj-4Kn-PRUvHuzh_591Euc3688
+- https://herelodin.com/como-configurar-ui-router-react/
 
